@@ -7,3 +7,6 @@ ganhar um pouco mais de velocidade na transmissão dos dados. Em relação ao v�
 Meu vídeo mostrando o funcionamento do projeto: https://youtu.be/FApShlUA1lI
 
 *senha do arquivo zip: "00001001".
+
+* Este projeto é realizado a partir de outro projeto desenvolvido pelo canal do YouTube Farrukh.
+* https://www.youtube.com/channel/UCbf5r9nBYW46MKkryXpXXcQ
